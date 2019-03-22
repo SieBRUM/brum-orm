@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrumORM", "BrumORM\BrumORM.csproj", "{A3E3D47C-73A5-4777-BAA1-4D6A0922E73B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E3D47C-73A5-4777-BAA1-4D6A0922E73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E3D47C-73A5-4777-BAA1-4D6A0922E73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E3D47C-73A5-4777-BAA1-4D6A0922E73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E3D47C-73A5-4777-BAA1-4D6A0922E73B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B29A0FB-D27E-479A-BEED-9AA9D4814F80}
+	EndGlobalSection
+EndGlobal
